@@ -1,4 +1,4 @@
-# Scope Chain
+# Scope Chain c
 
 ## Learning Goals
 
